@@ -79,6 +79,21 @@ ul li::before {
   position: absolute;
   left: 0;
 }
+.details ul li::before {
+  content: "❤️";
+  position: absolute;
+  left: 0;
+}
+.highlights ul li::before {
+  content: "❤️";
+  position: absolute;
+  left: 0;
+}
+.details ul li::before {
+  content: "❤️";
+  position: absolute;
+  left: 0;
+}
 
 ul li:hover {
   transform: translateX(8px);
