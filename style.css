@@ -80,16 +80,16 @@ ul li::before {
   left: 0;
 }
 .details ul li::before {
-  content: "❤️";
+  content: "😁";
   position: absolute;
   left: 0;
 }
 .highlights ul li::before {
-  content: "❤️";
+  content: "✌️";
   position: absolute;
   left: 0;
 }
-.details ul li::before {
+.leaders ul li::before {
   content: "❤️";
   position: absolute;
   left: 0;
